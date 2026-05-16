@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Frontend Engineer experienced in Next JS & React JS.</p>
+<p align="left">Software Engineer passionate about building scalable systems, AI-powered applications, and solving real-world problems through clean architecture and efficient code. </p>
 
 ###
 
