@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Mazen Mohammed | Frontend Engineer | Senior Student @ FUE</p>
+<p align="left">Mazen Mohammed | Software engineer | Senior Student @ FUE</p>
 
 ###
 
